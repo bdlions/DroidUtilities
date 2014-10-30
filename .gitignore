@@ -1,14 +1,13 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-bin/
-gen/
 # Folder config file
 Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-
+bin/
+gen/
 
 # Windows Installer files
 *.cab
