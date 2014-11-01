@@ -25,17 +25,19 @@ containing a value of this type.
         public static int stub=0x7f020001;
     }
     public static final class id {
-        public static int chart_containe=0x7f060000;
-        public static int image=0x7f060001;
-        public static int imageViewTest=0x7f060004;
-        public static int list=0x7f060003;
-        public static int text=0x7f060002;
+        public static int chart_containe=0x7f060001;
+        public static int chatList=0x7f060000;
+        public static int image=0x7f060002;
+        public static int imageViewTest=0x7f060005;
+        public static int list=0x7f060004;
+        public static int text=0x7f060003;
     }
     public static final class layout {
-        public static int layout_google_achartengine=0x7f030000;
-        public static int layout_hlistview_item=0x7f030001;
-        public static int layout_hlistview_main=0x7f030002;
-        public static int layout_image_loader=0x7f030003;
+        public static int layout_chat=0x7f030000;
+        public static int layout_google_achartengine=0x7f030001;
+        public static int layout_hlistview_item=0x7f030002;
+        public static int layout_hlistview_main=0x7f030003;
+        public static int layout_image_loader=0x7f030004;
     }
     public static final class string {
         public static int app_name=0x7f040000;
